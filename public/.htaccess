@@ -54,7 +54,7 @@ RewriteRule . /index.php [L]
 
 # BEGIN Owlbear
 <IfModule mod_headers.c>
-Header set Access-Control-Allow-Origin *
+Header set Access-Control-Allow-Origin "https://www.owlbear.rodeo"
 
 <FilesMatch "\.(|htm|html)$">
     <IfModule mod_expires.c>
