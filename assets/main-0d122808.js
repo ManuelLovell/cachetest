@@ -11,7 +11,7 @@
       <button id="counter" type="button"></button>
     </div>
     <p class="read-the-docs">
-    First test. Second test. Third Test
+    First test. Second test. Third Test.FourthTest
     </p>
   </div>
 `;u(document.querySelector("#counter"));
