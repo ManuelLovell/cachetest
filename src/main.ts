@@ -16,7 +16,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
       <button id="counter" type="button"></button>
     </div>
     <p class="read-the-docs">
-    First test. Second test. Third Test.FourthTest.FifthTest
+    First test. Second test. Third Test.FourthTest.FifthTest.SixthTest
     </p>
   </div>
 `
