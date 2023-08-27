@@ -1,0 +1,15 @@
+{
+    "name": "Cache!",
+    "description": "Me Cache Test.",
+    "version": "1.0.0",
+    "author": "Battle-System",
+    "icon": "/logo.png",
+    "manifest_version": 1,
+    "action": {
+      "title": "Cache!",
+      "icon": "/icon.svg",
+      "popover": "/",
+      "height": 600,
+      "width": 500
+    }
+  }
